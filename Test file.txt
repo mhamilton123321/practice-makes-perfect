@@ -1,1 +1,9 @@
+<<<<<<< HEAD
+Only the best, test :) and then rest 
+
+My friend thinks he is smart. He told me an onion is the only food that makes you cry, so I threw a coconut at his face.
+=======
 Only the best, test :) and then rest
+
+nick test
+>>>>>>> 17a556d6897111a55f11f39571abda98e4011bde
